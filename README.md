@@ -949,16 +949,6 @@ For questions, collaborations, or dataset requests:
 
 ---
 
-<div align="center">
-
-**⭐ If you find this project useful, please consider giving it a star! ⭐**
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TTEH-Net)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/TTEH-Net)](https://github.com/your-username/TTEH-Net/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/TTEH-Net)](https://github.com/your-username/TTEH-Net/network)
-
-</div>
-
 ---
 
 ## 📌 Project Status
