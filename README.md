@@ -9,7 +9,7 @@ Bangalore – 562112, Karnataka, India
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-orange)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.8%2B-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.8%2B-green) 
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
@@ -385,7 +385,7 @@ biometric enc/
 
 ### 🔢 Modified Pseudo Hadamard Transform (MPHT)
 
-**File:** `mpht.py`
+**File:** `mpht.py` 
 
 ```python
 def mpht_forward(img, p=10, n=8):
@@ -456,7 +456,7 @@ def mpht_inverse(img, p=10, n=8):
 
 ### 🌊 Chaotic Skew Tent Map
 
-**File:** `skew_tent.py`
+**File:** `skew_tent.py` 
 
 ```python
 class SkewTentMap:
@@ -515,7 +515,7 @@ class SkewTentMap:
 
 ### 🔐 Encryption Pipeline
 
-**File:** `encryption.py`
+**File:** `encryption.py` 
 
 ```python
 def encrypt(img, x0=0.3271, mu=1.9999, rounds=8):
@@ -713,11 +713,11 @@ python run_analysis.py
 ```
 
 **What Happens:**
-1. Checks for images in `data/samples/`
+1. Checks for images in `data/samples/` 
 2. If empty, generates 80 synthetic fingerprints
 3. Runs security analysis on all images
-4. Saves results to `results/metrics.csv`
-5. Generates plots in `results/plots/`
+4. Saves results to `results/metrics.csv` 
+5. Generates plots in `results/plots/` 
 6. Prints summary table
 
 **Expected Output:**
