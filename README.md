@@ -888,6 +888,9 @@ def encrypt_tiled(img, tile_size=512):
 
 **Team Members:**
 - **Bhuvaneshwer S** · Dayananda Sagar University
+- **Gaikwad Aadhitya** · Dayananda Sagar University
+- **Abhishek** · Dayananda Sagar University
+- **Jhanvi C** · Dayananda Sagar University
 - **TTEH LAB Team** · School of Engineering
 
 **Department:** Computer Science and Engineering  
@@ -921,7 +924,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Acknowledgments
 
-- **IEEE Paper:** Original research on TTEH fingerprint encryption
+- **IEEE Paper:** Bl-IEA: A Bit-Level Image Encryption Algorithm using Transformation and Chaotic Skew Tent Map based Substitution for Fingerprint Images
 - **Dayananda Sagar University:** Institutional support and resources
 - **TTEH LAB:** Research facilities and guidance
 - **Open Source Community:** NumPy, Pillow, Matplotlib libraries
@@ -934,7 +937,7 @@ For questions, collaborations, or dataset requests:
 
 🏛️ **Institution:** Dayananda Sagar University  
 🔬 **Lab:** TTEH LAB  
-📧 **Email:** [contact@dsu.edu.in](mailto:contact@dsu.edu.in)
+📧 **Email:** [bhuvaneshwer.2005@proton.me](mailto:bhuvaneshwer.2005@proton.me)
 
 ---
 
