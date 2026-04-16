@@ -1,5 +1,5 @@
 # 🔐 TTEH-Net
-**Fingerprint Image Encryption using Modified Pseudo Hadamard Transform and Chaotic Skew Tent Map**
+**Bl-IEA: A Bit-Level Image Encryption Algorithm using Transformation and Chaotic Skew Tent Map based Substitution for Fingerprint Images**
 
 TTEH LAB · School of Engineering, Dayananda Sagar University  
 Bangalore – 562112, Karnataka, India
@@ -16,7 +16,7 @@ Bangalore – 562112, Karnataka, India
 
 **Prototype implementation of:**
 
-*"Fingerprint Image Encryption using Modified Pseudo Hadamard Transform and Chaotic Skew Tent Map"*
+*"Bl-IEA: A Bit-Level Image Encryption Algorithm using Transformation and Chaotic Skew Tent Map based Substitution for Fingerprint Images"*
 
 IEEE Paper · Research Implementation · Biometric Security
 
