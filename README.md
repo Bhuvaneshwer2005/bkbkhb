@@ -945,12 +945,12 @@ For questions, collaborations, or dataset requests:
 
 ## 🔗 Resources
 
-- 📖 **Paper:** IEEE Publication on Fingerprint Image Encryption
+- 📖 **Paper:** Bl-IEA: A Bit-Level Image Encryption Algorithm using Transformation and Chaotic Skew Tent Map based Substitution for Fingerprint Images
 - 💻 **Code:** [GitHub Repository](#)
 - 📊 **Datasets:**
   - [FVC2004](http://bias.csr.unibo.it/fvc2004/)
   - [Synthetic Generator](included in project)
-- 📹 **Demo:** [GUI Application](run_gui.py)
+-  **Core App:** [GUI Application](run_gui.py)
 
 ---
 
