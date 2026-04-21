@@ -895,7 +895,7 @@ def encrypt_tiled(img, tile_size=512):
 - **Jhanvi C** · Dayananda Sagar University
 - **TTEH LAB Team** · School of Engineering
 
-**Department:** Computer Science and Engineering and Cyber Security 
+**Department:** Computer Science and Engineering  
 **Institution:** School of Engineering, Dayananda Sagar University
 
 ---
