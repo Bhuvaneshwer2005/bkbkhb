@@ -1,4 +1,6 @@
-# 🔐 TTEH-Net
+# 🔐 Bl-IEA: A Bit-Level Image Encryption Algorithm using Transformation and Chaotic Skew Tent Map based Substitution for Fingerprint Images
+
+
 **Bl-IEA: A Bit-Level Image Encryption Algorithm using Transformation and Chaotic Skew Tent Map based Substitution for Fingerprint Images**
 
 TTEH LAB · School of Engineering, Dayananda Sagar University  
