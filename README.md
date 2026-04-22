@@ -889,10 +889,11 @@ def encrypt_tiled(img, tile_size=512):
 ## 👥 Contributors
 
 **Team Members:**
-- **Bhuvaneshwer S** · Dayananda Sagar University
-- **Gaikwad Aadhitya** · Dayananda Sagar University
-- **Abhishek** · Dayananda Sagar University
-- **Jhanvi C** · Dayananda Sagar University
+- **Bhuvaneshwer S - ENG24CY1002** · Dayananda Sagar University
+- **Gaikwad Aadhitya - ENG23CY0062** · Dayananda Sagar University
+- **Abhishek - ENG23CY0001** · Dayananda Sagar University
+- **Jhanvi C - ENG23CY0009** · Dayananda Sagar University
+- **Kishan M Naik - ENG23CY0021** · Dayananda Sagar University
 - **TTEH LAB Team** · School of Engineering
 
 **Department:** Computer Science and Engineering  
